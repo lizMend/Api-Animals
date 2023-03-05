@@ -1,0 +1,85 @@
+[
+    {
+      "id": 1,
+      "type": "Perro",
+      "name":"Chispas",
+      "price": 1000.00,
+      "age": "2 años",
+      "photo": "https://images.hola.com/imagenes/mascotas/20221020219416/razas-perros-toy/1-154-385/razas-de-perro-toy-t.jpg"
+
+    },
+    {
+      "id": 2,
+      "type": "Gato",
+      "name":"Kiri",
+      "price": 1200.00,
+      "age": "3 años",
+      "photo":"https://s1.ppllstatics.com/lasprovincias/www/multimedia/202112/12/media/cortadas/gatos-kb2-U160232243326NVC-1248x770@Las%20Provincias.jpg"
+    },
+    {
+        "id": 3,
+      "type": "Pez",
+      "name":"Burbuja",
+      "price": 500.00,
+      "age": "5 años",
+      "photo":"https://media.istockphoto.com/id/486782720/es/foto/carpa-dorada-en-una-pecera.jpg?s=612x612&w=0&k=20&c=ItUDxp76sBEvwQILVGWWlE9G3ta9VkrJSFktY5OnESg="
+      
+    },
+    {
+        "id": 4,
+        "type": "Conejo",
+        "name":"Galleta",
+        "price": 250.00,
+        "age": "1 año",
+        "photo":"http://safracan.com/wp-content/uploads/2021/04/conejo-enano.jpg"
+    },
+    {  
+    "id": 5,
+    "type": "Pajarito",
+    "name":"Alitas",
+    "price": 700.00,
+    "age": "2 año",
+    "photo":"https://i.pinimg.com/736x/01/c7/91/01c7911e516265d996c78346d99c2aa0.jpg"
+
+    },
+    {  
+    "id": 6,
+    "type": "Pollito",
+    "name":"Pollin",
+    "price": 20.00,
+    "age": "5 meses",
+    "photo":"https://www.molinoschampion.com/wp-content/uploads/2021/12/desarrollo-intestinal-del-pollito.jpg"
+},
+    {  
+    "id": 7,
+    "type": "Hamster",
+    "name":"Stuar",
+    "price": 200.00,
+    "age": "8 meses",
+    "photo":"https://www.hogarmania.com/archivos/201706/mascotas-roedores-hamster8-1280x720x80xX.jpg"
+},
+{  
+    "id": 8,
+    "type": "Pato",
+    "name":"Donald",
+    "price": 250.00,
+    "age": "1 año",
+    "photo":"https://upload.wikimedia.org/wikipedia/commons/f/ff/Anas_platyrhynchos_qtl1.jpg"
+},
+{  
+    "id": 9,
+    "type": "Tortuga",
+    "name":"Rasponsito",
+    "price": 900.00,
+    "age": "3 años",
+    "photo":"https://www.mexicodesconocido.com.mx/wp-content/uploads/2018/05/tortuga_negra.jpg"
+},
+{  
+    "id": 10,
+    "type": "Caballo",
+    "name":"Jinete",
+    "price":15000.00,
+    "age": "7 años",
+    "photo":"https://i.ytimg.com/vi/8Qs-1Qdg2Y8/maxresdefault.jpg"
+},
+]
